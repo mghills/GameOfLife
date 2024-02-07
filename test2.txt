@@ -1,0 +1,11 @@
+10 10
+D A D A D A D A D A
+A D A D A D A D A D
+D A D A D A D A D A
+A D A D A D A D A D
+D A D A D A D A D A
+A D A D A D A D A D
+D A D A D A D A D A
+A D A D A D A D A D
+A D A D A D A D A D
+D A D A D A D A D A
